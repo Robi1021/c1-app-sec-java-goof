@@ -9,7 +9,7 @@ The goal of this application is to demonstrate through example how to find, expl
 First, clone the repo
 
 ```sh
-$ git clone https://github.com/mawinkler/c1-app-sec-java-goof.git
+$ git clone https://github.com/robi1021/c1-app-sec-java-goof.git
 ```
 
 Now, set your Application Security keys
